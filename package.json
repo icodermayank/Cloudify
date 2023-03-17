@@ -1,0 +1,23 @@
+{
+  "name": "cloudify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iritikdev/cloudify-host.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iritikdev/cloudify-host/issues"
+  },
+  "homepage": "https://github.com/iritikdev/cloudify-host#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
